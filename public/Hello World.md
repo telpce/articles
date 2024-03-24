@@ -1,7 +1,7 @@
 ---
 title: Hello World
 tags:
-  - ''
+  - '初心者'
 private: false
 updated_at: ''
 id: null
